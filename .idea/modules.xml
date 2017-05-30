@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/klisp.iml" filepath="$PROJECT_DIR$/klisp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/klisp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/klisp_main.iml" group="klisp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/klisp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/klisp_test.iml" group="klisp" />
+    </modules>
+  </component>
+</project>
